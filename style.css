@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+    padding: 50px;
+    /* text-align: center; */
+    width: 80%;
+}
+
+h1 {
+    font-size: 4em;
+    margin: 20px 0;
+}
+
+h3 {
+    color: #333;
+    /* font-weight: 400; */
+}
+
+p {
+    color: #777777;
+}
+
+span {
+    color: blue;
+    /* text-decoration: underline; */
+}
+
+hr {
+    border-top: 1px solid #333;
+}
